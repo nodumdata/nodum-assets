@@ -19,6 +19,7 @@ Primero, qué tipo de cosa es: `datasets/` (lo que se publica para que otros lo 
 | [`datasets/federated/`](datasets/federated/) | Lunas: tres silos no-IID, su unión para el centralizado y el test común |
 | [`shared/`](shared/) | El contrato con ocean-node (`ocean_app.py`) y el Dockerfile de las imágenes |
 | [`scripts/`](scripts/) | `push_images.py`, que sube las imágenes a Docker Hub |
+| [`brand/logos/`](brand/logos/) | Los logos de Nodum en SVG, para fondo claro y oscuro |
 
 ## Algoritmos
 
